@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/onobot-app-static/static/css/main.28139fb8.css",
+    "main.js": "/onobot-app-static/static/js/main.84801856.js",
+    "static/js/787.f0c2abb4.chunk.js": "/onobot-app-static/static/js/787.f0c2abb4.chunk.js",
+    "index.html": "/onobot-app-static/index.html",
+    "main.28139fb8.css.map": "/onobot-app-static/static/css/main.28139fb8.css.map",
+    "main.84801856.js.map": "/onobot-app-static/static/js/main.84801856.js.map",
+    "787.f0c2abb4.chunk.js.map": "/onobot-app-static/static/js/787.f0c2abb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28139fb8.css",
+    "static/js/main.84801856.js"
+  ]
+}
